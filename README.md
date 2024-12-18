@@ -4,7 +4,7 @@ Course: HDip in Computer in Data Analytics
 Module: Applied Statistics 
 Author: Stefania Verduga  
 
-The "applied-statistics" repository contains the solutions of different tasks and the final project within the Applied Statistics module.
+The `applied-statistics` repository contains the solutions of different tasks and the final project within the Applied Statistics module.
 
 ## Table of Contents.
 
@@ -18,9 +18,9 @@ Within the "tasks.ipynb" we can find the different solved tasks:
 
 ### Project
 
-The "project.ipynb" repository contains the PlantGrowth R dataset analysis in which I will develop the statistical tests learnt during this module, as t-test and ANOVA.
+The `project.ipynb` repository contains the PlantGrowth R dataset analysis in which I will develop the statistical tests learnt during this module, as t-test and ANOVA.
 
-___
+***
 
 ## Instructions to clone the repository and run the Jupyter Notebook.
 
@@ -36,3 +36,12 @@ This project was carried out with a Mac computer, so below I will explain the st
 git clone https://github.com/StefaniaVerduga/applied-statistics.git
 ```
 This command will create a new directory with the same name as the repository in our current location and copy the repository files into it.
+
+### Running Jupyter Notebook  
+
+Next, I am going to explain how I created and carried out this project in Jupyter Notebook through VSCode.
+
+1. The first step is to install Visual Studio Code and all the needed extensions: Python and Jupyter extensions.
+2. Open the folder or workshop where we want to create or open Jupyter Notebooks, in this case the folder where we have our repository. We should create a new Jupyter Notebook by clicking on the "Create a new file" button and saving it with a `.ipynb` extension.
+3. Then, we should select a Kernel and choose the Python interpreter that we want to use for running the notebook.
+4. Once all the previous steps are already done, we can run code cells by clicking the "Run Cell" button on the left side of each code cell or by using the keyboard shortcut Shift + Enter.
